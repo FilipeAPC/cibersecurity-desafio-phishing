@@ -1,9 +1,10 @@
-# Phishing para captura de senhas do Facebook
+# O Projeto tem como Objetivo, Simular uma Situação de Coletas de Credenciais.
+## Todo Projeto sera Baseado em Modelo de Engenharia Social, em Clonagem de Site
 
 ### Ferramentas
-
-- Kali Linux
-- setoolkit
+- Software Oracle VM VirtualBox
+- Sistema Operacional Kali Linux
+- Comando setoolkit
 
 ### Configurando o Phishing no Kali Linux
 
